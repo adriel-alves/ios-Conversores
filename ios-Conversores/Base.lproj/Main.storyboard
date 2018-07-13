@@ -96,6 +96,7 @@
                         <outlet property="btUnit2" destination="Zyu-yP-tsR" id="iIv-6z-SSP"/>
                         <outlet property="lbResult" destination="1f9-vk-vhW" id="AJb-lM-XtU"/>
                         <outlet property="lbResultUnit" destination="tha-Rr-fWg" id="HpD-eX-2K9"/>
+                        <outlet property="lbUnit" destination="poI-Yb-12d" id="HHf-FY-HSZ"/>
                         <outlet property="tfValue" destination="u1c-SL-6XY" id="wt4-vf-5ka"/>
                     </connections>
                 </viewController>
